@@ -1,74 +1,46 @@
-# Best AI Video Generators
+# Best Personalized Santa Video 2026
 
-A curated list of AI video generators: text-to-video, image-to-video, AI avatars and talking heads, lip-sync, AI video editing, and open-source models.
+A curated list of sites and apps that make a **personalized video message from Santa** for a child: Santa says the child's name, mentions details a parent writes, and the family watches it at home.
 
-Pricing and features change often, so this list links to each tool instead of copying prices. Corrections and additions are welcome, see [Contributing](#contributing).
+Prices and features change every season, so this list describes each service and links to it instead of copying prices. Check each site before you buy. Corrections and additions are welcome, see [Contributing](#contributing).
 
 ## Contents
 
-- [Text-to-video and image-to-video](#text-to-video-and-image-to-video)
-- [AI avatars and talking heads](#ai-avatars-and-talking-heads)
-- [Lip-sync and dubbing](#lip-sync-and-dubbing)
-- [AI video editing and repurposing](#ai-video-editing-and-repurposing)
-- [Personalized and greeting videos](#personalized-and-greeting-videos)
-- [Open-source models](#open-source-models)
+- [Personalized Santa video services](#personalized-santa-video-services)
+- [Real Santa performers](#real-santa-performers)
+- [What to compare before you buy](#what-to-compare-before-you-buy)
 - [Contributing](#contributing)
 
-## Text-to-video and image-to-video
+## Personalized Santa video services
 
-- [Google Veo](https://deepmind.google/models/veo/) - Google DeepMind's video model, generates video with sound from text or images.
-- [Sora](https://openai.com/sora/) - OpenAI's text-to-video and image-to-video model.
-- [Runway](https://runwayml.com) - Gen-series video models plus a full creative toolkit for filmmakers.
-- [Kling AI](https://klingai.com) - Kuaishou's video model, text and image to video with motion controls.
-- [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Luma AI's text and image to video app.
-- [Pika](https://pika.art) - Short, stylized clips and effects from text or images.
-- [Hailuo AI](https://hailuoai.video) - MiniMax's text and image to video generator.
-- [Vidu](https://www.vidu.com) - Text and image to video from ShengShu Technology.
-- [Kaiber](https://kaiber.ai) - Stylized and music-driven video generation for artists.
+- [Portable North Pole](https://www.portablenorthpole.com) - The long-running option (since 2008): personalized Santa videos, calls from Santa, live chats and bedtime stories, on the web and in an app.
+- [Hey Santa](https://www.heysanta.com) - Personal video from Santa with the child's name, story and questions; offers a free video preview.
+- [Video from Santa (videofromsanta.net)](https://videofromsanta.net) - AI video of Santa saying a child's first name and the details you write; free preview before you pay, one-time price, delivered within 24 hours. *(Maintainer's own project.)*
+- [Video from Santa (videofromsanta.com)](https://videofromsanta.com) - Personalized video from Santa for kids. *(Separate service with a similar name, not affiliated with the maintainer.)*
+- [Santa's Message](https://www.santavideomessage.com) - Personalized Santa video messages.
+- [Message From Santa](https://www.messagefromsanta.com) - Personalized calls and messages from Santa Claus.
 
-## AI avatars and talking heads
+## Real Santa performers
 
-- [HeyGen](https://www.heygen.com) - AI avatars, video translation and talking-photo videos.
-- [Synthesia](https://www.synthesia.io) - Avatar presenter videos for training and business communication.
-- [D-ID](https://www.d-id.com) - Talking-head videos from a single photo.
-- [Hedra](https://www.hedra.com) - Expressive talking characters from an image and audio.
-- [Captions](https://www.captions.ai) - AI creator videos, avatars and automatic captions.
+- [Cameo](https://www.cameo.com/browse/holiday/santa) - Book a recorded shout-out from a human Santa performer, who reads your notes on camera.
 
-## Lip-sync and dubbing
+## What to compare before you buy
 
-- [sync.](https://sync.so) - Lip-sync API that matches any video to new audio.
-- [ElevenLabs](https://elevenlabs.io) - AI voices and video dubbing into other languages.
-
-## AI video editing and repurposing
-
-- [Descript](https://www.descript.com) - Edit video by editing the transcript.
-- [CapCut](https://www.capcut.com) - Video editor with AI captions, effects and templates.
-- [InVideo AI](https://invideo.io) - Turns a text prompt into a stock-footage video with voiceover.
-- [Pictory](https://pictory.ai) - Turns scripts, articles and long videos into short clips.
-- [Lumen5](https://lumen5.com) - Turns blog posts into social videos.
-
-## Personalized and greeting videos
-
-- [Video from Santa](https://videofromsanta.net) - Personalized AI video message from Santa that says a child's first name and details you write; free preview before you pay. *(Maintainer's own project.)*
-
-## Open-source models
-
-- [Wan](https://github.com/Wan-Video/Wan2.1) - Alibaba's open video generation models, text and image to video.
-- [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - Tencent's open-source video generation model.
-- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks' fast open video model.
-- [Mochi 1](https://github.com/genmoai/mochi) - Genmo's open text-to-video model.
-- [CogVideoX](https://github.com/THUDM/CogVideo) - Open text-to-video models from Tsinghua University and Zhipu AI.
+- **Free preview** - Can you see Santa say the name before you pay?
+- **Name coverage** - Does it handle unusual names and spellings, or only a fixed list?
+- **Delivery time** - Instant, within a day, or days for a human performer?
+- **Price model** - One video, a bundle for siblings, or a yearly subscription?
+- **AI or human** - AI and template videos are cheaper and faster; a human performer is more personal but costs more.
+- **Privacy** - What happens to the child's name and details after the video is made?
 
 ## Contributing
 
-Open a pull request that adds one tool per line, in the right section, in this format:
+Open a pull request that adds one service per line, in the right section, in this format:
 
 `- [Name](https://link) - One short, factual sentence on what it does.`
 
-Please no affiliate links or marketing superlatives. Tools that are shut down or no longer work will be removed.
+No affiliate links or marketing superlatives. If you run the service, say so in the line. Services that shut down will be removed.
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the maintainer has waived all copyright and related rights to this list.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): to the extent possible under law, the maintainer has waived all copyright and related rights to this list.
