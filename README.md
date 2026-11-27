@@ -19,6 +19,7 @@ Prices and features change every season, so this list describes each service and
 - [Video from Santa (videofromsanta.com)](https://videofromsanta.com) - Personalized video from Santa for kids. *(Separate service with a similar name, not affiliated with the maintainer.)*
 - [Santa's Message](https://www.santavideomessage.com) - Personalized Santa video messages.
 - [Message From Santa](https://www.messagefromsanta.com) - Personalized calls and messages from Santa Claus.
+- [Santa Visit Video](https://santavisitvideo.com) - Personalized Santa videos in two formats: a free 9:16 storybook greeting (no home photo required) or a 15-second night-vision "caught on camera" clip made from one photo of your living room or doorstep.
 
 ## Real Santa performers
 
